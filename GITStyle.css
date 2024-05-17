@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SweetCreamy';
+    src: url('polices/SweetCreamy.ttf');
+}
+
+p {
+    align: left;
+    font-family: Verdana, serif;
+    text-align: center;
+
+
+}
